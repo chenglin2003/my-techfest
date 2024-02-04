@@ -5,6 +5,7 @@ import Grid from '@mui/material/Grid';
 import Container from '@mui/material/Container';
 import Button from '../components/Button';
 import Typography from '../components/Typography';
+import { Link } from 'react-router-dom';
 
 const item = {
   display: 'flex',
@@ -106,8 +107,8 @@ function ProductHowItWorks() {
           color="secondary"
           size="large"
           variant="contained"
-          component="a"
-          href="/premium-themes/onepirate/sign-up/"
+          component={Link}  // Use Link component
+          to="/functions"
           sx={{ mt: 8 }}
         >
           Get started
