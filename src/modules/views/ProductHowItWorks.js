@@ -95,8 +95,8 @@ function ProductHowItWorks() {
                   sx={image}
                 />
                 <Typography variant="h5" align="center">
-                  {'New offers every week. New experiences, new surprises. '}
-                  {'Your Sundays will no longer be alike.'}
+                  {'Record you own voice'}
+                  {' or Upload audio files of your likings'}
                 </Typography>
               </Box>
             </Grid>

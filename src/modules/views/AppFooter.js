@@ -68,7 +68,6 @@ export default function AppFooter() {
                     src="/static/themes/onepirate/appFooterGitHub.png"
                     alt="GitHub"
                     style={{ width: '60px', height: '60px' }} // Adjust the width and height as needed
-
                   />
                 </Box>
               </Grid>
