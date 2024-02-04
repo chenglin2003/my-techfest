@@ -67,7 +67,7 @@ function ProductHowItWorks() {
                   sx={image}
                 />
                 <Typography variant="h5" align="center">
-                  Appointment every Wednesday 9am.
+                  Enter text prompts of outcomes you hope to see.
                 </Typography>
               </Box>
             </Grid>
@@ -81,8 +81,7 @@ function ProductHowItWorks() {
                   sx={image}
                 />
                 <Typography variant="h5" align="center">
-                  First come, first served. Our offers are in limited quantities, so
-                  be quick.
+                  Upload Images of products or services you like to share
                 </Typography>
               </Box>
             </Grid>
